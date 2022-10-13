@@ -1,0 +1,15 @@
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\bin\Debug\net6.0\Examples001_consol.exe
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\bin\Debug\net6.0\Examples001_consol.deps.json
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\bin\Debug\net6.0\Examples001_consol.runtimeconfig.json
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\bin\Debug\net6.0\Examples001_consol.dll
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\bin\Debug\net6.0\Examples001_consol.pdb
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\obj\Debug\net6.0\Examples001_consol.csproj.AssemblyReference.cache
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\obj\Debug\net6.0\Examples001_consol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\obj\Debug\net6.0\Examples001_consol.AssemblyInfoInputs.cache
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\obj\Debug\net6.0\Examples001_consol.AssemblyInfo.cs
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\obj\Debug\net6.0\Examples001_consol.csproj.CoreCompileInputs.cache
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\obj\Debug\net6.0\Examples001_consol.dll
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\obj\Debug\net6.0\refint\Examples001_consol.dll
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\obj\Debug\net6.0\Examples001_consol.pdb
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\obj\Debug\net6.0\Examples001_consol.genruntimeconfig.cache
+D:\Обучение\3. Знакомство с языками программирования\Examples\Examples001_consol\obj\Debug\net6.0\ref\Examples001_consol.dll
